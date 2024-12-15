@@ -1,10 +1,12 @@
 body {
     text-align: center;
-    font-family: 'Arial';
-    background: lightseagreen;
-    color: darkolivegreen;
+    text-size-adjust: 35;
+    font-family: 'TimesNewRoman';
+    background: lightslategray;
+    color: black;
 }
 
 img {
-    width: 200 px;
+    width: 50 px;
+    height: 100 px;
 }
